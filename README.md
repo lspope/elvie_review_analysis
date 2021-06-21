@@ -23,6 +23,10 @@ Exploratory data analysis and word frequency text analysis techniques were used 
 
 See the [EDA Notebook](./code/nb2_eda.ipynb) for more details.
 
+
+## Presentation
+PDF of the [Project Presentation](Product_Review_Analysis_Demonstration_LeahPope.pdf) is also available.
+
 ## Repository Structure
 ```
 --code
