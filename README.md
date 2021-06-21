@@ -15,7 +15,7 @@ This project uses publicly-accessible, Elvie product review data submitted to th
 * Review date
 * Country code (provided by reviewer)
 
-See the [Data Prep Notebook](./code/nb1_data__prep.ipynb) for more details.
+See the [Data Prep Notebook](./code/nb1_data_prep.ipynb) for more details.
 
 
 ## Analysis
