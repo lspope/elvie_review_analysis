@@ -1,7 +1,7 @@
-## Analyzing Elvie Product Reviews 
+## Analyzing Product Reviews 
 
 ## Introduction
-The goal of this project is to perform analysis on Elvie products reviews to identify trends and explore user feedback.
+The goal of this portfolio project is to demonstrate product review analysis. Review data was downloaded from an open platform review website for personal, non-commercial use. 
 
 ![cook](./images/andrae-ricketts-3Qi0PkM_Wes-unsplash.jpg)
 
@@ -9,18 +9,17 @@ Photo by <a href="https://unsplash.com/@drezart?utm_source=unsplash&utm_medium=r
   
 
 ## Data Description and Preparation
-This project uses publicly-accessible product reviews submitted to Trust Pilot. The following information was collected:
-* Review identifier
+This project uses publicly-accessible product review data submitted to the open platform, Trust Pilot. The following data was downloaded for analysis.
 * Review text
 * Star rating (1-5)
 * Review date
-* Country code provided by reviewer
+* Country code (provided by reviewer)
 
-See the [Data Prep Notebook](./code/nb1_data__prep.ipynb) for additional information on data preparation. 
+See the [Data Prep Notebook](./code/nb1_data__prep.ipynb) for more details.
 
 
 ## Analysis
-This project includes EDA and general text analysis of user reviews of the Cookpad app. The following questions are addressed:
+Exploratory data analysis and word frequency text analysis techniques were used to answer the following questions:
 
 * What were the review counts by year? 
 * What were the review counts by Rating?
